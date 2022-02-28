@@ -986,7 +986,7 @@ def ciba():
     play_url='http://www.iciba.com/fy'
     webbrowser.open(play_url)
 def Unicode2HexStr():
-    st=textPad.get(1.0, END)+'rogabet'
+    st=textPad.get(1.0, END)+'roga'
     Hex_Str = ""
     for i in range(0, len(st)):
         Hex_Str += (hex(ord(st[i])).replace('0x', '').zfill(4))
@@ -1001,7 +1001,7 @@ def HexStr2Unicode():
         for i in range(0, len(st2) // 4):
             chr(int(st2[i * 4:i * 4 + 4], 16))
             Unicde_Str += chr(int(st2[i * 4:i * 4 + 4], 16))
-        Unicde_Str = Unicde_Str.replace('rogabet','')
+        Unicde_Str = Unicde_Str.replace('roga','')
         textPad.delete(0.0, 'end')
         textPad.insert('end', Unicde_Str)
 # def renlianjiemi():
