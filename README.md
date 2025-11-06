@@ -1,8 +1,7 @@
--AI办公学习-
+-AI办公学习- 
+Rogabet Notepad 2025-1104
 
-Rogabet Notepad 2025-1021
-
-老罗笔记人工智能文字处理软件 v1.835
+老罗笔记人工智能文字处理软件 v1.835h
 
 功能:文本:编辑TXT,NOTE,MD,XLSX,定时存,插硬件信息,提docx,pdf,pptx,xlsx,ofd里字写入,朗读,wx邮件,选多件复制可贴路径文件名,OCR插入,批量word/excel换字,并压word等。
 
@@ -14,13 +13,15 @@ AI:ai生成ppt,批量翻译UTF8-TXT,DOCX,XLSX,PPTX,PDF(200种语言)和图片,�
 
 其他:下zip,找文件(文件内包含词\像素\文件名),批量图插入表,日历,解方程和函数图,网址收藏,批量压JPG和改尺寸,aes加密和删重复文件，批量word里词换图,剪贴板,文件名分类,横竖图分类等。
 
-链1=https://share.weiyun.com/iNSf8B6X
+链1=pan.baidu.com/s/1WrT0t3ZwWFLCvv260qUVaw?pwd=1104
 
-链2=pan.baidu.com/s/1O_3shTpiannIvkWBu2K6Gw?pwd=1021
+链2=https://share.weiyun.com/uOzclHYl
 
 链3=https://lestore.lenovo.com/detail/L114017
 
 链4=https://baoku.360.cn/soft/show/appid/600000433
+
+更目录pan.baidu.com/s/14eYo_y9-6iXWm5IkTO4l4A?pwd=0509
 
 
 
@@ -115,4 +116,8 @@ AI:ai生成ppt,批量翻译UTF8-TXT,DOCX,XLSX,PPTX,PDF(200种语言)和图片,�
 
 2025-1022 优化python开发H模式  1.835c
 
-2510-2729 优化量改pdf里句词 1.835def
+2025-1029 优化量改pdf里句词 1.835f
+
+2025-1031 优化pdf去除水印 1.835g
+
+2025-1104 修复窗体调用bug,优化说明文档 1.835h
