@@ -1,7 +1,7 @@
 -AI办公学习- 
-Rogabet Notepad 2026-0710
+Rogabet Notepad 2026-0801
 
-老罗笔记人工智能文字处理软件 v1.885
+老罗笔记人工智能文字处理软件 v1.897
 
 功能:文本:编辑TXT,NOTE,MD,XLSX,定时存,插硬件信息,提docx,pdf,pptx,xlsx,ofd里字写入,朗读,wx邮件,选多件复制可贴路径文件名,OCR插入,批量word/excel换字,并压word等。
 
@@ -13,7 +13,7 @@ AI:ai生成ppt,批量翻译UTF8-TXT,DOCX,XLSX,PPTX,PDF(200种语言)和图片,�
 
 其他:下zip,找文件(文件内包含词\像素\文件名),批量图插入表,日历,解方程和函数图,网址收藏,批量压JPG和改尺寸,aes加密和删重复文件，批量word里词换图,剪贴板,文件名分类,横竖图分类等。
 
-链1=pan.baidu.com/s/1zSPamh3YT-89X71pQNhkBg?pwd=710a
+链1=pan.baidu.com/s/1cpiALiZgEu8EQr43-0nPEA?pwd=0721
 
 链2=www.aliyundrive.com/s/HGft9JyRuDA
 
@@ -157,6 +157,23 @@ AI:ai生成ppt,批量翻译UTF8-TXT,DOCX,XLSX,PPTX,PDF(200种语言)和图片,�
 
 2026-0710 修复已知的报错问题 1.886 wmic
 
-2026-0713 优化图片翻译,表识别 qw 1.887
 
-20260713c 优化多国语音识别 1.888
+2026-0713 优化表识别 qw 1.887
+
+2026-0715 优化批量图片翻译 1.889 qwen-image-2.0-pro
+
+2026-0716 优化批量文档翻译 1.891
+
+2026-0717 优化图类档识别为文字类pdf 1.892
+
+2026-0718 优化托盘图标击 1.893
+
+2026-0721 优化批量图片翻译 1.894 qwen-mt-image
+
+2026-0729 优化日历查询 1.895
+
+2026-0731 优化多国语音识别 1.896 qwen-audio-3.0-asr-flash
+
+2026-0801 优化图类档及ofd识别为md 1.897
+
+
