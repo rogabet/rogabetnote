@@ -1,7 +1,7 @@
 -AI办公学习- 
-Rogabet Notepad 2026-0801
+Rogabet Notepad 2026-0803
 
-老罗笔记人工智能文字处理软件 v1.897
+老罗笔记人工智能文字处理软件 v1.900
 
 功能:文本:编辑TXT,NOTE,MD,XLSX,定时存,插硬件信息,提docx,pdf,pptx,xlsx,ofd里字写入,朗读,wx邮件,选多件复制可贴路径文件名,OCR插入,批量word/excel换字,并压word等。
 
@@ -13,7 +13,7 @@ AI:ai生成ppt,批量翻译UTF8-TXT,DOCX,XLSX,PPTX,PDF(200种语言)和图片,�
 
 其他:下zip,找文件(文件内包含词\像素\文件名),批量图插入表,日历,解方程和函数图,网址收藏,批量压JPG和改尺寸,aes加密和删重复文件，批量word里词换图,剪贴板,文件名分类,横竖图分类等。
 
-链1=pan.baidu.com/s/1cpiALiZgEu8EQr43-0nPEA?pwd=0721
+链1=pan.baidu.com/s/1baRxs4jDWK1N9Q9hZhFchw?pwd=0803 
 
 链2=www.aliyundrive.com/s/HGft9JyRuDA
 
@@ -176,4 +176,11 @@ AI:ai生成ppt,批量翻译UTF8-TXT,DOCX,XLSX,PPTX,PDF(200种语言)和图片,�
 
 2026-0801 优化图类档及ofd识别为md 1.897
 
+2026-0802 优化文本比对和目录文件比对 1.898
+
+2026-0803 优化多个表文件比对差异 1.899
+
+20260803p 优化知识问答 1.900 qwen3.8mx
+
+2026-0805 优化图片修改 1.901 qwen-image-3.0-pro
 
